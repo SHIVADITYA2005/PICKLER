@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 Overview
-```plaintext
+
 **PICKLER** is a simple yet powerful **Python desktop GUI tool** that helps users **pickle and unpickle files** of any type — `.txt`, `.jpg`, `.xlsx`, `.py`, and more.  
 Built with **Tkinter**, it offers a **multi-frame interface** that guides users from a welcome screen to a file uploader, and finally to the pickler module — all without any console interaction.
 
@@ -93,9 +93,6 @@ python pickler.py
 Developed by:
 🧑‍💻 Shivaditya
 🎓 B.Tech CSE (AIML), SRM Institute of Science & Technology, NCR Campus
-📧 shivaditya2005@gmail.com
-
-🔗 GitHub Profile
 
 🪪 License
 
